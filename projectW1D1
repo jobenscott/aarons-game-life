@@ -1,0 +1,18 @@
+puts "hello world!"
+
+
+var i = 1;
+
+if (i % 3 == 0) {
+	print("divisble by three")
+}
+
+elsif (i % 2 == 0) {
+	print("even")
+}
+
+elsif (i % 2 != 0) {
+	print("odd")
+}
+
+end
